@@ -189,3 +189,5 @@ The game is designed to be easily customizable:
 ## 📝 License
 
 This project is created for educational and demonstration purposes. Super Mario Bros is a trademark of Nintendo.
+
+![Super Mario Home Page](./Mario.png)
